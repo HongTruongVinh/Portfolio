@@ -4,6 +4,7 @@
 -	Date of Birth: 2002-06-06
 -	Address: Thu Duc, Ho Chi Minh City
 -	Email: hongvinhkrn@gmail.com
+-	Github: https://github.com/HongTruongVinh/Portfolio
 -	Phone: 0393574180
 
 # CAREER OBJECTIVE
