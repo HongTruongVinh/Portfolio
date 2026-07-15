@@ -15,12 +15,12 @@
 # EDUCATION
 -	2020-2025: University of Information Technology – UIT
 -	Major: Software Engineer
--	CPA: 7.54/10
+-	CPA: 3.0
 
 # PROFESSIONAL SKILLS
 - Programming
   -	Programming Languages: C#, ASP.NET, ASP.Net MVC, ASP.Net Core,  Windows Forms App, WPF Application.
-  -	Web Services, Web API.
+  -	Web Services, Web API, Design Patterns, Clean Architecture.
   -	Client Languages: jQuery, JavaScript, TypeScript, Angular, HTML, CSS.
   - Database Management: SQL Server, MySQL, PostgreSQL, MongoDB.
 
