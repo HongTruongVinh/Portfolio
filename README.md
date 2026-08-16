@@ -4,7 +4,7 @@
 -	Date of Birth: 2002-06-06
 -	Address: Thu Duc, Ho Chi Minh City
 -	Email: hongvinhkrn@gmail.com
--	Github: https://github.com/HongTruongVinh/Portfolio
+-	Portfolio: https://techstoreweb.onrender.com (Initial load may take ~20s due to server cold start.)
 -	Phone: 0393574180
 
 # CAREER OBJECTIVE
@@ -20,7 +20,7 @@
 # PROFESSIONAL SKILLS
 - Programming
   -	Programming Languages: C#, ASP.NET, ASP.Net MVC, ASP.Net Core,  Windows Forms App, WPF Application.
-  -	Web Services, Web API, Design Patterns, Clean Architecture.
+  -	Web Services, Web API, Design Patterns.
   -	Client Languages: jQuery, JavaScript, TypeScript, Angular, HTML, CSS.
   - Database Management: SQL Server, MySQL, PostgreSQL, MongoDB.
 
